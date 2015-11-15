@@ -3,10 +3,6 @@
  * @project     Измерительный комплекс СУ
  * @file        FADEC.ino
  * @brief       Файл реализации точки страта проектов на Arduino: функции #setup() и #loop().
- *
- * $Revision: 75 $
- * $Author: Николай $
- * $Date:: 2015-11-09 08:08:17#$
  */
 
 #include <EEPROM.h>

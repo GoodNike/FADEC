@@ -3,10 +3,6 @@
 * @project     Измерительный комплекс СУ
 * @file        hall_info.cpp
 * @brief       Класс для работы с датчиком Холла, файл реализации.
-*
-* $Revision: 75 $
-* $Author: Николай $
-* $Date:: 2015-11-09 08:08:17#$
 */
 
 #include "hall_info.h"

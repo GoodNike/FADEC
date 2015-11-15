@@ -26,3 +26,5 @@
 *.exe
 *.out
 *.app
+/FADEC/__vm
+/FADEC.v12.suo
